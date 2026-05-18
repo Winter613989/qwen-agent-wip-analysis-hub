@@ -1,0 +1,23 @@
+{
+  "repository_name": "QwenLM/Qwen-Agent",
+  "closed_wip_issue_count": 2,
+  "issues": [
+    {
+      "number": 216,
+      "title": "开源的qwen模型是否支持function call",
+      "author": "robin-xl",
+      "created": "2024-06-24",
+      "comments": 10,
+      "url": "https://github.com/QwenLM/Qwen-Agent/issues/216"
+    },
+    {
+      "number": 102,
+      "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
+      "author": "cheng18175030250",
+      "created": "2024-03-27",
+      "comments": 11,
+      "assignees": ["tuhahaha"],
+      "url": "https://github.com/QwenLM/Qwen-Agent/issues/102"
+    }
+  ]
+}
